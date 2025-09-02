@@ -1,5 +1,5 @@
-## I'm a senior in high school graduating in 2026 planning on majoring in Computer Science👋
-## I'm based on Chesapeake, Virginia!
+ I'm a senior in high school graduating in 2026 planning on majoring in Computer Science 👋
+ I'm based in Chesapeake, Virginia!
 
 <!--
 **williammarietta/williammarietta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
